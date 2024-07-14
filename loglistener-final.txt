@@ -1,0 +1,1264 @@
+00:00.495	ID:2	Rime started with address 2.0
+00:00.504	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 2.
+00:00.509	ID:6	Rime started with address 6.0
+00:00.513	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.515	ID:2	Starting 'Child bands'
+00:00.518	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 6.
+00:00.519	ID:2	Broadcast message sent: M6#Bhe5nD&Thrht59U7u
+00:00.528	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.529	ID:6	Starting 'Parent bands'
+00:00.534	ID:6	Broadcast message sent: z9$Fr4tMn2D^bWy7kQs3
+00:00.607	ID:4	Rime started with address 4.0
+00:00.616	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 4.
+00:00.625	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.627	ID:4	Starting 'Parent bands'
+00:00.631	ID:4	Broadcast message sent: ;c{?K|JNy?3)'D2KJ+%7
+00:00.641	ID:1	Rime started with address 1.0
+00:00.650	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 1.
+00:00.652	ID:6	This (M6#Bhe5nD&Thrht59U7u) is NOT my key
+00:00.659	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.661	ID:1	Starting 'Child bands'
+00:00.665	ID:1	Broadcast message sent: ;c{?K|JNy?3)'D2KJ+%7
+00:00.751	ID:4	Paired device -> key found, Address: 1.0
+00:00.974	ID:5	Rime started with address 5.0
+00:00.983	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 5.
+00:00.992	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.994	ID:5	Starting 'Parent bands'
+00:00.998	ID:5	Broadcast message sent: M6#Bhe5nD&Thrht59U7u
+00:01.015	ID:2	This (z9$Fr4tMn2D^bWy7kQs3) is NOT my key
+00:01.035	ID:1	This (z9$Fr4tMn2D^bWy7kQs3) is NOT my key
+00:01.139	ID:2	This (;c{?K|JNy?3)'D2KJ+%7) is NOT my key
+00:01.153	ID:6	This (;c{?K|JNy?3)'D2KJ+%7) is NOT my key
+00:01.158	ID:3	Rime started with address 3.0
+00:01.161	ID:1	Paired device -> key found, Address: 4.0
+00:01.167	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 3.
+00:01.176	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.178	ID:3	Starting 'Child bands'
+00:01.182	ID:3	Broadcast message sent: z9$Fr4tMn2D^bWy7kQs3
+00:01.388	ID:2	Paired device -> key found, Address: 5.0
+00:01.402	ID:6	This (M6#Bhe5nD&Thrht59U7u) is NOT my key
+00:01.743	ID:5	This (z9$Fr4tMn2D^bWy7kQs3) is NOT my key
+00:01.779	ID:6	Paired device -> key found, Address: 3.0
+00:02.515	ID:2	Closed broadcast connection
+00:02.517	ID:2	Message unicast sent
+00:02.518	ID:2	Start op mode
+00:02.530	ID:6	Closed broadcast connection
+00:02.532	ID:6	Message unicast sent
+00:02.533	ID:6	Start op mode
+00:02.617	ID:5	Paired device -> unicast message received, Address: 2.0
+00:02.627	ID:4	Closed broadcast connection
+00:02.629	ID:4	Message unicast sent
+00:02.630	ID:4	Start op mode
+00:02.661	ID:1	Closed broadcast connection
+00:02.663	ID:1	Message unicast sent
+00:02.664	ID:1	Start op mode
+00:02.749	ID:4	A message arrived from the child
+00:02.752	ID:4	x = 29779, y = 28783, status = (null)
+00:02.927	ID:3	Paired device -> unicast message received, Address: 6.0
+00:02.994	ID:5	Closed broadcast connection
+00:02.995	ID:5	Start op mode
+00:03.178	ID:3	Closed broadcast connection
+00:03.179	ID:3	Start op mode
+00:12.519	ID:2	Unicast message sent: x = -24247, y = 6734, status = FALLING
+00:12.616	ID:5	A message arrived from the child
+00:12.620	ID:5	x = -24247, y = 6734, status = FALLING
+00:12.623	ID:5	ALARM: FALL x = -24247, y = 6734
+00:12.665	ID:1	Unicast message sent: x = -7020, y = -25795, status = WALKING
+00:12.750	ID:4	A message arrived from the child
+00:12.753	ID:4	x = -7020, y = -25795, status = WALKING
+00:13.182	ID:3	Unicast message sent: x = 28588, y = 9333, status = RUNNING
+00:13.277	ID:6	A message arrived from the child
+00:13.280	ID:6	x = 28588, y = 9333, status = RUNNING
+00:22.519	ID:2	Unicast message sent: x = -13188, y = 2309, status = RUNNING
+00:22.616	ID:5	A message arrived from the child
+00:22.620	ID:5	x = -13188, y = 2309, status = RUNNING
+00:22.666	ID:1	Unicast message sent: x = 29827, y = -18944, status = STANDING
+00:22.748	ID:4	A message arrived from the child
+00:22.752	ID:4	x = 29827, y = -18944, status = STANDING
+00:23.183	ID:3	Unicast message sent: x = 27771, y = -9576, status = STANDING
+00:23.274	ID:6	A message arrived from the child
+00:23.278	ID:6	x = 27771, y = -9576, status = STANDING
+00:32.519	ID:2	Unicast message sent: x = -13429, y = 13416, status = STANDING
+00:32.617	ID:5	A message arrived from the child
+00:32.620	ID:5	x = -13429, y = 13416, status = STANDING
+00:32.666	ID:1	Unicast message sent: x = -17282, y = -10785, status = WALKING
+00:32.748	ID:4	A message arrived from the child
+00:32.752	ID:4	x = -17282, y = -10785, status = WALKING
+00:33.183	ID:3	Unicast message sent: x = 11990, y = 21847, status = STANDING
+00:33.277	ID:6	A message arrived from the child
+00:33.281	ID:6	x = 11990, y = 21847, status = STANDING
+00:42.519	ID:2	Unicast message sent: x = 9510, y = -27289, status = WALKING
+00:42.616	ID:5	A message arrived from the child
+00:42.620	ID:5	x = 9510, y = -27289, status = WALKING
+00:42.665	ID:1	Unicast message sent: x = -2827, y = 8842, status = FALLING
+00:42.750	ID:4	A message arrived from the child
+00:42.753	ID:4	x = -2827, y = 8842, status = FALLING
+00:42.756	ID:4	ALARM: FALL x = -2827, y = 8842
+00:43.183	ID:3	Unicast message sent: x = 27949, y = 25186, status = STANDING
+00:43.277	ID:6	A message arrived from the child
+00:43.281	ID:6	x = 27949, y = 25186, status = STANDING
+00:52.519	ID:2	Unicast message sent: x = 21437, y = 28082, status = WALKING
+00:52.616	ID:5	A message arrived from the child
+00:52.620	ID:5	x = 21437, y = 28082, status = WALKING
+00:52.665	ID:1	Unicast message sent: x = 17688, y = -5263, status = RUNNING
+00:52.750	ID:4	A message arrived from the child
+00:52.753	ID:4	x = 17688, y = -5263, status = RUNNING
+00:53.183	ID:3	Unicast message sent: x = 25776, y = -20695, status = RUNNING
+00:53.277	ID:6	A message arrived from the child
+00:53.281	ID:6	x = 25776, y = -20695, status = RUNNING
+01:02.519	ID:2	Unicast message sent: x = 10368, y = 28345, status = STANDING
+01:02.614	ID:5	A message arrived from the child
+01:02.617	ID:5	x = 10368, y = 28345, status = STANDING
+01:02.666	ID:1	Unicast message sent: x = -24105, y = -25916, status = WALKING
+01:02.748	ID:4	A message arrived from the child
+01:02.752	ID:4	x = -24105, y = -25916, status = WALKING
+01:03.182	ID:3	Unicast message sent: x = -26545, y = 7132, status = WALKING
+01:03.277	ID:6	A message arrived from the child
+01:03.280	ID:6	x = -26545, y = 7132, status = WALKING
+01:12.519	ID:2	Unicast message sent: x = -13729, y = 19628, status = WALKING
+01:12.616	ID:5	A message arrived from the child
+01:12.620	ID:5	x = -13729, y = 19628, status = WALKING
+01:12.665	ID:1	Unicast message sent: x = 30946, y = -31629, status = WALKING
+01:12.750	ID:4	A message arrived from the child
+01:12.754	ID:4	x = 30946, y = -31629, status = WALKING
+01:13.183	ID:3	Unicast message sent: x = -9286, y = 27243, status = STANDING
+01:13.274	ID:6	A message arrived from the child
+01:13.278	ID:6	x = -9286, y = 27243, status = STANDING
+01:22.519	ID:2	Unicast message sent: x = 266, y = -21125, status = STANDING
+01:22.616	ID:5	A message arrived from the child
+01:22.619	ID:5	x = 266, y = -21125, status = STANDING
+01:22.665	ID:1	Unicast message sent: x = -26711, y = 16686, status = RUNNING
+01:22.750	ID:4	A message arrived from the child
+01:22.754	ID:4	x = -26711, y = 16686, status = RUNNING
+01:23.182	ID:3	Unicast message sent: x = 6753, y = -1658, status = RUNNING
+01:23.277	ID:6	A message arrived from the child
+01:23.280	ID:6	x = 6753, y = -1658, status = RUNNING
+01:32.519	ID:2	Unicast message sent: x = 15345, y = 9174, status = RUNNING
+01:32.616	ID:5	A message arrived from the child
+01:32.619	ID:5	x = 15345, y = 9174, status = RUNNING
+01:32.665	ID:1	Unicast message sent: x = 32348, y = 1381, status = WALKING
+01:32.750	ID:4	A message arrived from the child
+01:32.753	ID:4	x = 32348, y = 1381, status = WALKING
+01:33.182	ID:3	Unicast message sent: x = 2676, y = -1123, status = WALKING
+01:33.277	ID:6	A message arrived from the child
+01:33.280	ID:6	x = 2676, y = -1123, status = WALKING
+01:42.519	ID:2	Unicast message sent: x = -31420, y = -22995, status = WALKING
+01:42.617	ID:5	A message arrived from the child
+01:42.620	ID:5	x = -31420, y = -22995, status = WALKING
+01:42.665	ID:1	Unicast message sent: x = 3819, y = 9288, status = STANDING
+01:42.750	ID:4	A message arrived from the child
+01:42.753	ID:4	x = 3819, y = 9288, status = STANDING
+01:43.183	ID:3	Unicast message sent: x = -17437, y = 23008, status = WALKING
+01:43.277	ID:6	A message arrived from the child
+01:43.281	ID:6	x = -17437, y = 23008, status = WALKING
+01:52.519	ID:2	Unicast message sent: x = 20723, y = -20048, status = RUNNING
+01:52.614	ID:5	A message arrived from the child
+01:52.617	ID:5	x = 20723, y = -20048, status = RUNNING
+01:52.666	ID:1	Unicast message sent: x = 18438, y = -20793, status = STANDING
+01:52.748	ID:4	A message arrived from the child
+01:52.752	ID:4	x = 18438, y = -20793, status = STANDING
+01:53.183	ID:3	Unicast message sent: x = -19618, y = 13119, status = STANDING
+01:53.277	ID:6	A message arrived from the child
+01:53.281	ID:6	x = -19618, y = 13119, status = STANDING
+02:02.519	ID:2	Unicast message sent: x = -10322, y = 2383, status = WALKING
+02:02.616	ID:5	A message arrived from the child
+02:02.620	ID:5	x = -10322, y = 2383, status = WALKING
+02:02.665	ID:1	Unicast message sent: x = 31773, y = -8558, status = RUNNING
+02:02.750	ID:4	A message arrived from the child
+02:02.753	ID:4	x = 31773, y = -8558, status = RUNNING
+02:03.182	ID:3	Unicast message sent: x = 341, y = -22678, status = RUNNING
+02:03.277	ID:6	A message arrived from the child
+02:03.280	ID:6	x = 341, y = -22678, status = RUNNING
+02:12.519	ID:2	Unicast message sent: x = 28133, y = -16198, status = RUNNING
+02:12.614	ID:5	A message arrived from the child
+02:12.617	ID:5	x = 28133, y = -16198, status = RUNNING
+02:12.665	ID:1	Unicast message sent: x = 13408, y = -17127, status = WALKING
+02:12.750	ID:4	A message arrived from the child
+02:12.754	ID:4	x = 13408, y = -17127, status = WALKING
+02:13.183	ID:3	Unicast message sent: x = -31496, y = 24017, status = STANDING
+02:13.277	ID:6	A message arrived from the child
+02:13.281	ID:6	x = -31496, y = 24017, status = STANDING
+02:22.519	ID:2	Unicast message sent: x = 1736, y = 865, status = STANDING
+02:22.616	ID:5	A message arrived from the child
+02:22.619	ID:5	x = 1736, y = 865, status = STANDING
+02:22.665	ID:1	Unicast message sent: x = -20545, y = 13964, status = RUNNING
+02:22.750	ID:4	A message arrived from the child
+02:22.754	ID:4	x = -20545, y = 13964, status = RUNNING
+02:23.182	ID:3	Unicast message sent: x = 19255, y = -1884, status = WALKING
+02:23.277	ID:6	A message arrived from the child
+02:23.280	ID:6	x = 19255, y = -1884, status = WALKING
+02:32.519	ID:2	Unicast message sent: x = -11449, y = -14476, status = WALKING
+02:32.617	ID:5	A message arrived from the child
+02:32.620	ID:5	x = -11449, y = -14476, status = WALKING
+02:32.666	ID:1	Unicast message sent: x = -21014, y = -30501, status = WALKING
+02:32.748	ID:4	A message arrived from the child
+02:32.752	ID:4	x = -21014, y = -30501, status = WALKING
+02:33.183	ID:3	Unicast message sent: x = -17982, y = 25555, status = RUNNING
+02:33.277	ID:6	A message arrived from the child
+02:33.281	ID:6	x = -17982, y = 25555, status = RUNNING
+02:42.519	ID:2	Unicast message sent: x = -21230, y = 23779, status = STANDING
+02:42.617	ID:5	A message arrived from the child
+02:42.620	ID:5	x = -21230, y = 23779, status = STANDING
+02:42.665	ID:1	Unicast message sent: x = -2479, y = -16714, status = STANDING
+02:42.750	ID:4	A message arrived from the child
+02:42.754	ID:4	x = -2479, y = -16714, status = STANDING
+02:43.183	ID:3	Unicast message sent: x = -2551, y = -20466, status = RUNNING
+02:43.274	ID:6	A message arrived from the child
+02:43.278	ID:6	x = -2551, y = -20466, status = RUNNING
+02:52.519	ID:2	Unicast message sent: x = -16999, y = -30626, status = WALKING
+02:52.617	ID:5	A message arrived from the child
+02:52.620	ID:5	x = -16999, y = -30626, status = WALKING
+02:52.666	ID:1	Unicast message sent: x = -13532, y = -22899, status = RUNNING
+02:52.750	ID:4	A message arrived from the child
+02:52.754	ID:4	x = -13532, y = -22899, status = RUNNING
+02:53.183	ID:3	Unicast message sent: x = -18372, y = -5691, status = STANDING
+02:53.277	ID:6	A message arrived from the child
+02:53.281	ID:6	x = -18372, y = -5691, status = STANDING
+03:02.519	ID:2	Unicast message sent: x = -28404, y = -26027, status = WALKING
+03:02.614	ID:5	A message arrived from the child
+03:02.617	ID:5	x = -28404, y = -26027, status = WALKING
+03:02.665	ID:1	Unicast message sent: x = 14419, y = 30096, status = STANDING
+03:02.750	ID:4	A message arrived from the child
+03:02.754	ID:4	x = 14419, y = 30096, status = STANDING
+03:03.182	ID:3	Unicast message sent: x = 31307, y = 7208, status = RUNNING
+03:03.277	ID:6	A message arrived from the child
+03:03.280	ID:6	x = 31307, y = 7208, status = RUNNING
+03:12.520	ID:2	Unicast message sent: x = -31397, y = -19976, status = STANDING
+03:12.617	ID:5	A message arrived from the child
+03:12.620	ID:5	x = -31397, y = -19976, status = STANDING
+03:12.665	ID:1	Unicast message sent: x = -4466, y = 1711, status = STANDING
+03:12.750	ID:4	A message arrived from the child
+03:12.753	ID:4	x = -4466, y = 1711, status = STANDING
+03:13.183	ID:3	Unicast message sent: x = -19738, y = 28711, status = RUNNING
+03:13.277	ID:6	A message arrived from the child
+03:13.281	ID:6	x = -19738, y = 28711, status = RUNNING
+03:22.519	ID:2	Unicast message sent: x = 17718, y = 7223, status = RUNNING
+03:22.616	ID:5	A message arrived from the child
+03:22.619	ID:5	x = 17718, y = 7223, status = RUNNING
+03:22.665	ID:1	Unicast message sent: x = 6725, y = 26010, status = RUNNING
+03:22.750	ID:4	A message arrived from the child
+03:22.753	ID:4	x = 6725, y = 26010, status = RUNNING
+03:23.182	ID:3	Unicast message sent: x = -29571, y = 6002, status = WALKING
+03:23.277	ID:6	A message arrived from the child
+03:23.280	ID:6	x = -29571, y = 6002, status = WALKING
+03:32.519	ID:2	Unicast message sent: x = -16627, y = 32450, status = STANDING
+03:32.617	ID:5	A message arrived from the child
+03:32.620	ID:5	x = -16627, y = 32450, status = STANDING
+03:32.665	ID:1	Unicast message sent: x = 26280, y = 5569, status = WALKING
+03:32.750	ID:4	A message arrived from the child
+03:32.753	ID:4	x = 26280, y = 5569, status = WALKING
+03:33.183	ID:3	Unicast message sent: x = 18496, y = 29561, status = STANDING
+03:33.277	ID:6	A message arrived from the child
+03:33.281	ID:6	x = 18496, y = 29561, status = STANDING
+03:42.519	ID:2	Unicast message sent: x = -14320, y = 16137, status = WALKING
+03:42.616	ID:5	A message arrived from the child
+03:42.620	ID:5	x = -14320, y = 16137, status = WALKING
+03:42.665	ID:1	Unicast message sent: x = 7335, y = 17748, status = STANDING
+03:42.750	ID:4	A message arrived from the child
+03:42.753	ID:4	x = 7335, y = 17748, status = STANDING
+03:43.183	ID:3	Unicast message sent: x = 15647, y = -22420, status = RUNNING
+03:43.277	ID:6	A message arrived from the child
+03:43.281	ID:6	x = 15647, y = -22420, status = RUNNING
+03:52.519	ID:2	Unicast message sent: x = 23343, y = 21820, status = RUNNING
+03:52.616	ID:5	A message arrived from the child
+03:52.620	ID:5	x = 23343, y = 21820, status = RUNNING
+03:52.665	ID:1	Unicast message sent: x = 3570, y = -9149, status = RUNNING
+03:52.750	ID:4	A message arrived from the child
+03:52.753	ID:4	x = 3570, y = -9149, status = RUNNING
+03:53.182	ID:3	Unicast message sent: x = 8906, y = -29637, status = RUNNING
+03:53.274	ID:6	A message arrived from the child
+03:53.278	ID:6	x = 8906, y = -29637, status = RUNNING
+04:02.519	ID:2	Unicast message sent: x = 9242, y = 31563, status = STANDING
+04:02.616	ID:5	A message arrived from the child
+04:02.620	ID:5	x = 9242, y = 31563, status = STANDING
+04:02.665	ID:1	Unicast message sent: x = -17415, y = 5950, status = STANDING
+04:02.750	ID:4	A message arrived from the child
+04:02.753	ID:4	x = -17415, y = 5950, status = STANDING
+04:03.182	ID:3	Unicast message sent: x = 6321, y = -24170, status = WALKING
+04:03.277	ID:6	A message arrived from the child
+04:03.280	ID:6	x = 6321, y = -24170, status = WALKING
+04:12.519	ID:2	Unicast message sent: x = -14783, y = 26598, status = RUNNING
+04:12.616	ID:5	A message arrived from the child
+04:12.620	ID:5	x = -14783, y = 26598, status = RUNNING
+04:12.665	ID:1	Unicast message sent: x = -5396, y = 7861, status = WALKING
+04:12.750	ID:4	A message arrived from the child
+04:12.753	ID:4	x = -5396, y = 7861, status = WALKING
+04:13.183	ID:3	Unicast message sent: x = -26364, y = -28947, status = RUNNING
+04:13.277	ID:6	A message arrived from the child
+04:13.281	ID:6	x = -26364, y = -28947, status = RUNNING
+04:22.519	ID:2	Unicast message sent: x = 4052, y = -31363, status = RUNNING
+04:22.616	ID:5	A message arrived from the child
+04:22.620	ID:5	x = 4052, y = -31363, status = RUNNING
+04:22.666	ID:1	Unicast message sent: x = -28485, y = -13864, status = WALKING
+04:22.750	ID:4	A message arrived from the child
+04:22.754	ID:4	x = -28485, y = -13864, status = WALKING
+04:23.183	ID:3	Unicast message sent: x = 18355, y = 16752, status = FALLING
+04:23.274	ID:6	A message arrived from the child
+04:23.278	ID:6	x = 18355, y = 16752, status = FALLING
+04:23.281	ID:6	ALARM: FALL x = 18355, y = 16752
+04:32.519	ID:2	Unicast message sent: x = 2243, y = 21824, status = WALKING
+04:32.616	ID:5	A message arrived from the child
+04:32.619	ID:5	x = 2243, y = 21824, status = WALKING
+04:32.666	ID:1	Unicast message sent: x = -12266, y = 32151, status = STANDING
+04:32.750	ID:4	A message arrived from the child
+04:32.754	ID:4	x = -12266, y = 32151, status = STANDING
+04:33.183	ID:3	Unicast message sent: x = 19822, y = -21489, status = RUNNING
+04:33.277	ID:6	A message arrived from the child
+04:33.281	ID:6	x = 19822, y = -21489, status = RUNNING
+04:42.519	ID:2	Unicast message sent: x = -29250, y = 28191, status = WALKING
+04:42.614	ID:5	A message arrived from the child
+04:42.617	ID:5	x = -29250, y = 28191, status = WALKING
+04:42.666	ID:1	Unicast message sent: x = 28525, y = -10334, status = STANDING
+04:42.748	ID:4	A message arrived from the child
+04:42.752	ID:4	x = 28525, y = -10334, status = STANDING
+04:43.183	ID:3	Unicast message sent: x = -20827, y = -11654, status = WALKING
+04:43.277	ID:6	A message arrived from the child
+04:43.281	ID:6	x = -20827, y = -11654, status = WALKING
+04:52.519	ID:2	Unicast message sent: x = -6347, y = -14390, status = WALKING
+04:52.616	ID:5	A message arrived from the child
+04:52.620	ID:5	x = -6347, y = -14390, status = WALKING
+04:52.665	ID:1	Unicast message sent: x = -1040, y = -27287, status = STANDING
+04:52.750	ID:4	A message arrived from the child
+04:52.754	ID:4	x = -1040, y = -27287, status = STANDING
+04:53.183	ID:3	Unicast message sent: x = -12664, y = -28639, status = STANDING
+04:53.277	ID:6	A message arrived from the child
+04:53.281	ID:6	x = -12664, y = -28639, status = STANDING
+05:02.519	ID:2	Unicast message sent: x = -29608, y = -15951, status = WALKING
+05:02.617	ID:5	A message arrived from the child
+05:02.620	ID:5	x = -29608, y = -15951, status = WALKING
+05:02.665	ID:1	Unicast message sent: x = -30577, y = -6372, status = RUNNING
+05:02.750	ID:4	A message arrived from the child
+05:02.754	ID:4	x = -30577, y = -6372, status = RUNNING
+05:03.182	ID:3	Unicast message sent: x = 3591, y = 19252, status = STANDING
+05:03.277	ID:6	A message arrived from the child
+05:03.280	ID:6	x = 3591, y = 19252, status = STANDING
+05:12.519	ID:2	Unicast message sent: x = 535, y = 5636, status = RUNNING
+05:12.616	ID:5	A message arrived from the child
+05:12.619	ID:5	x = 535, y = 5636, status = RUNNING
+05:12.665	ID:1	Unicast message sent: x = -18182, y = 7851, status = FALLING
+05:12.750	ID:4	A message arrived from the child
+05:12.753	ID:4	x = -18182, y = 7851, status = FALLING
+05:12.756	ID:4	ALARM: FALL x = -18182, y = 7851
+05:13.183	ID:3	Unicast message sent: x = 14034, y = -31837, status = WALKING
+05:13.277	ID:6	A message arrived from the child
+05:13.281	ID:6	x = 14034, y = -31837, status = WALKING
+05:22.519	ID:2	Unicast message sent: x = -31198, y = -22349, status = RUNNING
+05:22.617	ID:5	A message arrived from the child
+05:22.620	ID:5	x = -31198, y = -22349, status = RUNNING
+05:22.665	ID:1	Unicast message sent: x = -30559, y = 27334, status = WALKING
+05:22.750	ID:4	A message arrived from the child
+05:22.754	ID:4	x = -30559, y = 27334, status = WALKING
+05:23.182	ID:3	Unicast message sent: x = 8793, y = -4578, status = WALKING
+05:23.277	ID:6	A message arrived from the child
+05:23.280	ID:6	x = 8793, y = -4578, status = WALKING
+05:32.519	ID:2	Unicast message sent: x = -2583, y = -7570, status = WALKING
+05:32.616	ID:5	A message arrived from the child
+05:32.619	ID:5	x = -2583, y = -7570, status = WALKING
+05:32.665	ID:1	Unicast message sent: x = -588, y = 3549, status = RUNNING
+05:32.750	ID:4	A message arrived from the child
+05:32.753	ID:4	x = -588, y = 3549, status = RUNNING
+05:33.183	ID:3	Unicast message sent: x = -13108, y = -29931, status = RUNNING
+05:33.277	ID:6	A message arrived from the child
+05:33.281	ID:6	x = -13108, y = -29931, status = RUNNING
+05:42.519	ID:2	Unicast message sent: x = 8604, y = 1957, status = RUNNING
+05:42.616	ID:5	A message arrived from the child
+05:42.619	ID:5	x = 8604, y = 1957, status = RUNNING
+05:42.665	ID:1	Unicast message sent: x = -18397, y = 16672, status = WALKING
+05:42.750	ID:4	A message arrived from the child
+05:42.754	ID:4	x = -18397, y = 16672, status = WALKING
+05:43.183	ID:3	Unicast message sent: x = -15333, y = -5704, status = RUNNING
+05:43.274	ID:6	A message arrived from the child
+05:43.278	ID:6	x = -15333, y = -5704, status = RUNNING
+05:52.519	ID:2	Unicast message sent: x = 31531, y = -17528, status = STANDING
+05:52.617	ID:5	A message arrived from the child
+05:52.620	ID:5	x = 31531, y = -17528, status = STANDING
+05:52.665	ID:1	Unicast message sent: x = 3230, y = -19585, status = STANDING
+05:52.750	ID:4	A message arrived from the child
+05:52.753	ID:4	x = 3230, y = -19585, status = STANDING
+05:53.183	ID:3	Unicast message sent: x = -23818, y = -30985, status = WALKING
+05:53.277	ID:6	A message arrived from the child
+05:53.281	ID:6	x = -23818, y = -30985, status = WALKING
+06:02.520	ID:2	Unicast message sent: x = -11962, y = -24825, status = STANDING
+06:02.617	ID:5	A message arrived from the child
+06:02.620	ID:5	x = -11962, y = -24825, status = STANDING
+06:02.665	ID:1	Unicast message sent: x = 7061, y = 21674, status = STANDING
+06:02.750	ID:4	A message arrived from the child
+06:02.753	ID:4	x = 7061, y = 21674, status = STANDING
+06:03.182	ID:3	Unicast message sent: x = 1997, y = -1918, status = STANDING
+06:03.277	ID:6	A message arrived from the child
+06:03.280	ID:6	x = 1997, y = -1918, status = STANDING
+06:12.519	ID:2	Unicast message sent: x = -31139, y = -17454, status = RUNNING
+06:12.617	ID:5	A message arrived from the child
+06:12.620	ID:5	x = -31139, y = -17454, status = RUNNING
+06:12.665	ID:1	Unicast message sent: x = 5176, y = -9199, status = RUNNING
+06:12.750	ID:4	A message arrived from the child
+06:12.753	ID:4	x = 5176, y = -9199, status = RUNNING
+06:13.183	ID:3	Unicast message sent: x = 14288, y = 21449, status = RUNNING
+06:13.274	ID:6	A message arrived from the child
+06:13.278	ID:6	x = 14288, y = 21449, status = RUNNING
+06:22.519	ID:2	Unicast message sent: x = 29600, y = 11097, status = WALKING
+06:22.616	ID:5	A message arrived from the child
+06:22.620	ID:5	x = 29600, y = 11097, status = WALKING
+06:22.666	ID:1	Unicast message sent: x = -27785, y = 15332, status = STANDING
+06:22.748	ID:4	A message arrived from the child
+06:22.752	ID:4	x = -27785, y = 15332, status = STANDING
+06:23.182	ID:3	Unicast message sent: x = 24047, y = 252, status = RUNNING
+06:23.277	ID:6	A message arrived from the child
+06:23.280	ID:6	x = 24047, y = 252, status = RUNNING
+06:32.519	ID:2	Unicast message sent: x = 26623, y = 10700, status = WALKING
+06:32.616	ID:5	A message arrived from the child
+06:32.620	ID:5	x = 26623, y = 10700, status = WALKING
+06:32.665	ID:1	Unicast message sent: x = -12542, y = -4077, status = RUNNING
+06:32.750	ID:4	A message arrived from the child
+06:32.753	ID:4	x = -12542, y = -4077, status = RUNNING
+06:33.182	ID:3	Unicast message sent: x = 5594, y = -5621, status = STANDING
+06:33.277	ID:6	A message arrived from the child
+06:33.280	ID:6	x = 5594, y = -5621, status = STANDING
+06:42.519	ID:2	Unicast message sent: x = -3286, y = -31461, status = STANDING
+06:42.614	ID:5	A message arrived from the child
+06:42.617	ID:5	x = -3286, y = -31461, status = STANDING
+06:42.665	ID:1	Unicast message sent: x = -951, y = -9906, status = WALKING
+06:42.750	ID:4	A message arrived from the child
+06:42.753	ID:4	x = -951, y = -9906, status = WALKING
+06:43.183	ID:3	Unicast message sent: x = -19711, y = -19034, status = WALKING
+06:43.277	ID:6	A message arrived from the child
+06:43.281	ID:6	x = -19711, y = -19034, status = WALKING
+06:52.519	ID:2	Unicast message sent: x = -4975, y = 6134, status = STANDING
+06:52.616	ID:5	A message arrived from the child
+06:52.619	ID:5	x = -4975, y = 6134, status = STANDING
+06:52.665	ID:1	Unicast message sent: x = 9084, y = 5125, status = WALKING
+06:52.750	ID:4	A message arrived from the child
+06:52.753	ID:4	x = 9084, y = 5125, status = WALKING
+06:53.183	ID:3	Unicast message sent: x = 29588, y = 32317, status = WALKING
+06:53.274	ID:6	A message arrived from the child
+06:53.278	ID:6	x = 29588, y = 32317, status = WALKING
+07:02.519	ID:2	Unicast message sent: x = -6556, y = -16179, status = STANDING
+07:02.616	ID:5	A message arrived from the child
+07:02.620	ID:5	x = -6556, y = -16179, status = STANDING
+07:02.665	ID:1	Unicast message sent: x = 20107, y = -1176, status = RUNNING
+07:02.750	ID:4	A message arrived from the child
+07:02.753	ID:4	x = 20107, y = -1176, status = RUNNING
+07:03.183	ID:3	Unicast message sent: x = -28797, y = 13568, status = RUNNING
+07:03.277	ID:6	A message arrived from the child
+07:03.281	ID:6	x = -28797, y = 13568, status = RUNNING
+07:12.519	ID:2	Unicast message sent: x = 31891, y = 1232, status = WALKING
+07:12.616	ID:5	A message arrived from the child
+07:12.619	ID:5	x = 31891, y = 1232, status = WALKING
+07:12.665	ID:1	Unicast message sent: x = -15322, y = 18535, status = WALKING
+07:12.750	ID:4	A message arrived from the child
+07:12.754	ID:4	x = -15322, y = 18535, status = WALKING
+07:13.183	ID:3	Unicast message sent: x = -11394, y = -24353, status = RUNNING
+07:13.277	ID:6	A message arrived from the child
+07:13.281	ID:6	x = -11394, y = -24353, status = RUNNING
+07:22.519	ID:2	Unicast message sent: x = 12238, y = 20207, status = WALKING
+07:22.616	ID:5	A message arrived from the child
+07:22.620	ID:5	x = 12238, y = 20207, status = WALKING
+07:22.665	ID:1	Unicast message sent: x = -16707, y = -846, status = STANDING
+07:22.750	ID:4	A message arrived from the child
+07:22.753	ID:4	x = -16707, y = -846, status = STANDING
+07:23.183	ID:3	Unicast message sent: x = 14325, y = -22134, status = WALKING
+07:23.277	ID:6	A message arrived from the child
+07:23.281	ID:6	x = 14325, y = -22134, status = WALKING
+07:32.519	ID:2	Unicast message sent: x = 15493, y = 31450, status = RUNNING
+07:32.616	ID:5	A message arrived from the child
+07:32.620	ID:5	x = 15493, y = 31450, status = RUNNING
+07:32.666	ID:1	Unicast message sent: x = -12416, y = -30279, status = FALLING
+07:32.748	ID:4	A message arrived from the child
+07:32.752	ID:4	x = -12416, y = -30279, status = FALLING
+07:32.755	ID:4	ALARM: FALL x = -12416, y = -30279
+07:33.183	ID:3	Unicast message sent: x = -23528, y = 24177, status = WALKING
+07:33.277	ID:6	A message arrived from the child
+07:33.281	ID:6	x = -23528, y = 24177, status = WALKING
+07:42.519	ID:2	Unicast message sent: x = -25112, y = 7169, status = STANDING
+07:42.616	ID:5	A message arrived from the child
+07:42.620	ID:5	x = -25112, y = 7169, status = STANDING
+07:42.665	ID:1	Unicast message sent: x = -8865, y = 25516, status = RUNNING
+07:42.750	ID:4	A message arrived from the child
+07:42.753	ID:4	x = -8865, y = 25516, status = RUNNING
+07:43.183	ID:3	Unicast message sent: x = -13097, y = -5692, status = WALKING
+07:43.274	ID:6	A message arrived from the child
+07:43.278	ID:6	x = -13097, y = -5692, status = WALKING
+07:52.519	ID:2	Unicast message sent: x = 11495, y = -20332, status = STANDING
+07:52.614	ID:5	A message arrived from the child
+07:52.617	ID:5	x = 11495, y = -20332, status = STANDING
+07:52.665	ID:1	Unicast message sent: x = 28682, y = -3973, status = WALKING
+07:52.750	ID:4	A message arrived from the child
+07:52.753	ID:4	x = 28682, y = -3973, status = WALKING
+07:53.182	ID:3	Unicast message sent: x = -8222, y = 24435, status = RUNNING
+07:53.277	ID:6	A message arrived from the child
+07:53.280	ID:6	x = -8222, y = 24435, status = RUNNING
+08:02.519	ID:2	Unicast message sent: x = -29902, y = -20349, status = FALLING
+08:02.614	ID:5	A message arrived from the child
+08:02.617	ID:5	x = -29902, y = -20349, status = FALLING
+08:02.621	ID:5	ALARM: FALL x = -29902, y = -20349
+08:02.666	ID:1	Unicast message sent: x = -18703, y = -32042, status = RUNNING
+08:02.748	ID:4	A message arrived from the child
+08:02.752	ID:4	x = -18703, y = -32042, status = RUNNING
+08:03.182	ID:3	Unicast message sent: x = 27305, y = 6190, status = STANDING
+08:03.277	ID:6	A message arrived from the child
+08:03.280	ID:6	x = 27305, y = 6190, status = STANDING
+08:12.519	ID:2	Unicast message sent: x = 19001, y = 10366, status = STANDING
+08:12.616	ID:5	A message arrived from the child
+08:12.620	ID:5	x = 19001, y = 10366, status = STANDING
+08:12.665	ID:1	Unicast message sent: x = 31812, y = -11987, status = RUNNING
+08:12.750	ID:4	A message arrived from the child
+08:12.754	ID:4	x = 31812, y = -11987, status = RUNNING
+08:13.182	ID:3	Unicast message sent: x = -21156, y = 2149, status = WALKING
+08:13.277	ID:6	A message arrived from the child
+08:13.280	ID:6	x = -21156, y = 2149, status = WALKING
+08:22.519	ID:2	Unicast message sent: x = 32300, y = 20725, status = STANDING
+08:22.616	ID:5	A message arrived from the child
+08:22.620	ID:5	x = 32300, y = 20725, status = STANDING
+08:22.665	ID:1	Unicast message sent: x = -3085, y = 6320, status = RUNNING
+08:22.750	ID:4	A message arrived from the child
+08:22.753	ID:4	x = -3085, y = 6320, status = RUNNING
+08:23.183	ID:3	Unicast message sent: x = 18923, y = 17224, status = WALKING
+08:23.274	ID:6	A message arrived from the child
+08:23.278	ID:6	x = 18923, y = 17224, status = WALKING
+08:32.519	ID:2	Unicast message sent: x = -21253, y = 20760, status = STANDING
+08:32.617	ID:5	A message arrived from the child
+08:32.620	ID:5	x = -21253, y = 20760, status = STANDING
+08:32.665	ID:1	Unicast message sent: x = 5806, y = -9137, status = RUNNING
+08:32.750	ID:4	A message arrived from the child
+08:32.753	ID:4	x = 5806, y = -9137, status = RUNNING
+08:33.182	ID:3	Unicast message sent: x = -250, y = -26169, status = WALKING
+08:33.277	ID:6	A message arrived from the child
+08:33.280	ID:6	x = -250, y = -26169, status = WALKING
+08:42.519	ID:2	Unicast message sent: x = -13994, y = 7639, status = STANDING
+08:42.616	ID:5	A message arrived from the child
+08:42.620	ID:5	x = -13994, y = 7639, status = STANDING
+08:42.665	ID:1	Unicast message sent: x = -1819, y = -4166, status = WALKING
+08:42.750	ID:4	A message arrived from the child
+08:42.753	ID:4	x = -1819, y = -4166, status = WALKING
+08:43.182	ID:3	Unicast message sent: x = -8419, y = 1426, status = STANDING
+08:43.277	ID:6	A message arrived from the child
+08:43.280	ID:6	x = -8419, y = 1426, status = STANDING
+08:52.519	ID:2	Unicast message sent: x = -22099, y = 9442, status = RUNNING
+08:52.616	ID:5	A message arrived from the child
+08:52.620	ID:5	x = -22099, y = 9442, status = RUNNING
+08:52.665	ID:1	Unicast message sent: x = 19912, y = 15969, status = WALKING
+08:52.750	ID:4	A message arrived from the child
+08:52.754	ID:4	x = 19912, y = 15969, status = WALKING
+08:53.183	ID:3	Unicast message sent: x = 13152, y = 20505, status = STANDING
+08:53.277	ID:6	A message arrived from the child
+08:53.281	ID:6	x = 13152, y = 20505, status = STANDING
+09:02.519	ID:2	Unicast message sent: x = 11056, y = 13225, status = WALKING
+09:02.616	ID:5	A message arrived from the child
+09:02.620	ID:5	x = 11056, y = 13225, status = WALKING
+09:02.665	ID:1	Unicast message sent: x = 1607, y = 32372, status = RUNNING
+09:02.750	ID:4	A message arrived from the child
+09:02.753	ID:4	x = 1607, y = 32372, status = RUNNING
+09:03.182	ID:3	Unicast message sent: x = -1345, y = 9612, status = RUNNING
+09:03.277	ID:6	A message arrived from the child
+09:03.280	ID:6	x = -1345, y = 9612, status = RUNNING
+09:12.519	ID:2	Unicast message sent: x = -3889, y = -13732, status = WALKING
+09:12.616	ID:5	A message arrived from the child
+09:12.620	ID:5	x = -3889, y = -13732, status = WALKING
+09:12.666	ID:1	Unicast message sent: x = -17390, y = -16413, status = WALKING
+09:12.750	ID:4	A message arrived from the child
+09:12.754	ID:4	x = -17390, y = -16413, status = WALKING
+09:13.183	ID:3	Unicast message sent: x = -19222, y = -31781, status = STANDING
+09:13.277	ID:6	A message arrived from the child
+09:13.281	ID:6	x = -19222, y = -31781, status = STANDING
+09:22.519	ID:2	Unicast message sent: x = 28218, y = -13589, status = RUNNING
+09:22.616	ID:5	A message arrived from the child
+09:22.620	ID:5	x = 28218, y = -13589, status = RUNNING
+09:22.666	ID:1	Unicast message sent: x = 22681, y = -30882, status = STANDING
+09:22.748	ID:4	A message arrived from the child
+09:22.752	ID:4	x = 22681, y = -30882, status = STANDING
+09:23.182	ID:3	Unicast message sent: x = -5807, y = 13750, status = RUNNING
+09:23.277	ID:6	A message arrived from the child
+09:23.280	ID:6	x = -5807, y = 13750, status = RUNNING
+09:32.519	ID:2	Unicast message sent: x = -20767, y = 13318, status = WALKING
+09:32.614	ID:5	A message arrived from the child
+09:32.617	ID:5	x = -20767, y = 13318, status = WALKING
+09:32.665	ID:1	Unicast message sent: x = 10252, y = -6827, status = RUNNING
+09:32.750	ID:4	A message arrived from the child
+09:32.753	ID:4	x = 10252, y = -6827, status = RUNNING
+09:33.183	ID:3	Unicast message sent: x = -26076, y = -13939, status = FALLING
+09:33.277	ID:6	A message arrived from the child
+09:33.281	ID:6	x = -26076, y = -13939, status = FALLING
+09:33.284	ID:6	ALARM: FALL x = -26076, y = -13939
+09:42.519	ID:2	Unicast message sent: x = 2292, y = 22557, status = RUNNING
+09:42.616	ID:5	A message arrived from the child
+09:42.619	ID:5	x = 2292, y = 22557, status = RUNNING
+09:42.665	ID:1	Unicast message sent: x = 18523, y = -18184, status = WALKING
+09:42.750	ID:4	A message arrived from the child
+09:42.754	ID:4	x = 18523, y = -18184, status = WALKING
+09:43.183	ID:3	Unicast message sent: x = -27821, y = 13456, status = RUNNING
+09:43.277	ID:6	A message arrived from the child
+09:43.281	ID:6	x = -27821, y = 13456, status = RUNNING
+09:52.520	ID:2	Unicast message sent: x = -21405, y = -16288, status = STANDING
+09:52.617	ID:5	A message arrived from the child
+09:52.620	ID:5	x = -21405, y = -16288, status = STANDING
+09:52.665	ID:1	Unicast message sent: x = 9270, y = 3895, status = STANDING
+09:52.750	ID:4	A message arrived from the child
+09:52.753	ID:4	x = 9270, y = 3895, status = STANDING
+09:53.182	ID:3	Unicast message sent: x = 17806, y = 4527, status = FALLING
+09:53.277	ID:6	A message arrived from the child
+09:53.280	ID:6	x = 17806, y = 4527, status = FALLING
+09:53.283	ID:6	ALARM: FALL x = 17806, y = 4527
+10:02.520	ID:2	Unicast message sent: x = -16930, y = -21569, status = STANDING
+10:02.617	ID:5	A message arrived from the child
+10:02.620	ID:5	x = -16930, y = -21569, status = STANDING
+10:02.665	ID:1	Unicast message sent: x = 27149, y = 19906, status = RUNNING
+10:02.750	ID:4	A message arrived from the child
+10:02.754	ID:4	x = 27149, y = 19906, status = RUNNING
+10:03.183	ID:3	Unicast message sent: x = -25275, y = 11418, status = STANDING
+10:03.277	ID:6	A message arrived from the child
+10:03.281	ID:6	x = -25275, y = 11418, status = STANDING
+10:12.519	ID:2	Unicast message sent: x = 28117, y = -9750, status = STANDING
+10:12.616	ID:5	A message arrived from the child
+10:12.620	ID:5	x = 28117, y = -9750, status = STANDING
+10:12.666	ID:1	Unicast message sent: x = -20720, y = -26103, status = STANDING
+10:12.748	ID:4	A message arrived from the child
+10:12.752	ID:4	x = -20720, y = -26103, status = STANDING
+10:13.183	ID:3	Unicast message sent: x = 1448, y = -14143, status = STANDING
+10:13.274	ID:6	A message arrived from the child
+10:13.278	ID:6	x = 1448, y = -14143, status = STANDING
+10:22.519	ID:2	Unicast message sent: x = 15224, y = 4689, status = STANDING
+10:22.616	ID:5	A message arrived from the child
+10:22.620	ID:5	x = 15224, y = 4689, status = STANDING
+10:22.666	ID:1	Unicast message sent: x = -20945, y = -21444, status = RUNNING
+10:22.748	ID:4	A message arrived from the child
+10:22.752	ID:4	x = -20945, y = -21444, status = RUNNING
+10:23.183	ID:3	Unicast message sent: x = -30809, y = -11180, status = RUNNING
+10:23.277	ID:6	A message arrived from the child
+10:23.281	ID:6	x = -30809, y = -11180, status = RUNNING
+10:32.519	ID:2	Unicast message sent: x = 21431, y = -26844, status = STANDING
+10:32.617	ID:5	A message arrived from the child
+10:32.620	ID:5	x = 21431, y = -26844, status = STANDING
+10:32.665	ID:1	Unicast message sent: x = -11494, y = -437, status = STANDING
+10:32.750	ID:4	A message arrived from the child
+10:32.753	ID:4	x = -11494, y = -437, status = STANDING
+10:33.183	ID:3	Unicast message sent: x = -19214, y = -2237, status = FALLING
+10:33.274	ID:6	A message arrived from the child
+10:33.278	ID:6	x = -19214, y = -2237, status = FALLING
+10:33.281	ID:6	ALARM: FALL x = -19214, y = -2237
+10:42.519	ID:2	Unicast message sent: x = -17342, y = 29779, status = STANDING
+10:42.614	ID:5	A message arrived from the child
+10:42.617	ID:5	x = -17342, y = 29779, status = STANDING
+10:42.665	ID:1	Unicast message sent: x = -32447, y = 1766, status = WALKING
+10:42.750	ID:4	A message arrived from the child
+10:42.753	ID:4	x = -32447, y = 1766, status = WALKING
+10:43.183	ID:3	Unicast message sent: x = -12551, y = 11838, status = WALKING
+10:43.277	ID:6	A message arrived from the child
+10:43.281	ID:6	x = -12551, y = 11838, status = WALKING
+10:44.558	ID:7	Rime started with address 7.0
+10:44.567	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 7.
+10:44.576	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+10:44.578	ID:7	Starting 'Child bands'
+10:44.582	ID:7	Broadcast message sent: R8^xYh3Lp1MvQ#9iTf4Z
+10:44.646	ID:8	Rime started with address 8.0
+10:44.655	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-2.6-2450-geaa8760 started. Node id is set to 8.
+10:44.665	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+10:44.666	ID:8	Starting 'Parent bands'
+10:44.671	ID:8	Broadcast message sent: R8^xYh3Lp1MvQ#9iTf4Z
+10:44.951	ID:7	Paired device -> key found, Address: 8.0
+10:46.578	ID:7	Closed broadcast connection
+10:46.580	ID:7	Message unicast sent
+10:46.581	ID:7	Start op mode
+10:46.666	ID:8	Paired device -> unicast message received, Address: 7.0
+10:46.668	ID:8	Closed broadcast connection
+10:46.669	ID:8	Start op mode
+10:52.519	ID:2	Unicast message sent: x = -17783, y = 23182, status = RUNNING
+10:52.614	ID:5	A message arrived from the child
+10:52.617	ID:5	x = -17783, y = 23182, status = RUNNING
+10:52.665	ID:1	Unicast message sent: x = 18132, y = -3971, status = FALLING
+10:52.750	ID:4	A message arrived from the child
+10:52.753	ID:4	x = 18132, y = -3971, status = FALLING
+10:52.756	ID:4	ALARM: FALL x = 18132, y = -3971
+10:53.183	ID:3	Unicast message sent: x = 23020, y = 25013, status = STANDING
+10:53.277	ID:6	A message arrived from the child
+10:53.281	ID:6	x = 23020, y = 25013, status = STANDING
+10:56.583	ID:7	Unicast message sent: x = 20690, y = -27229, status = STANDING
+10:56.663	ID:8	A message arrived from the child
+10:56.666	ID:8	x = 20690, y = -27229, status = STANDING
+11:02.519	ID:2	Unicast message sent: x = -22852, y = 30277, status = RUNNING
+11:02.616	ID:5	A message arrived from the child
+11:02.620	ID:5	x = -22852, y = 30277, status = RUNNING
+11:02.665	ID:1	Unicast message sent: x = -5181, y = -960, status = STANDING
+11:02.750	ID:4	A message arrived from the child
+11:02.753	ID:4	x = -5181, y = -960, status = STANDING
+11:03.182	ID:3	Unicast message sent: x = 3003, y = 10456, status = WALKING
+11:03.277	ID:6	A message arrived from the child
+11:03.280	ID:6	x = 3003, y = 10456, status = WALKING
+11:06.583	ID:7	Unicast message sent: x = -31655, y = -22498, status = WALKING
+11:06.663	ID:8	A message arrived from the child
+11:06.666	ID:8	x = -31655, y = -22498, status = WALKING
+11:12.519	ID:2	Unicast message sent: x = 6859, y = 29352, status = WALKING
+11:12.616	ID:5	A message arrived from the child
+11:12.619	ID:5	x = 6859, y = 29352, status = WALKING
+11:12.665	ID:1	Unicast message sent: x = 3262, y = -32481, status = WALKING
+11:12.750	ID:4	A message arrived from the child
+11:12.753	ID:4	x = 3262, y = -32481, status = WALKING
+11:13.183	ID:3	Unicast message sent: x = -14570, y = -22377, status = WALKING
+11:13.277	ID:6	A message arrived from the child
+11:13.281	ID:6	x = -14570, y = -22377, status = WALKING
+11:16.582	ID:7	Unicast message sent: x = 5836, y = 3349, status = RUNNING
+11:16.665	ID:8	A message arrived from the child
+11:16.668	ID:8	x = 5836, y = 3349, status = RUNNING
+11:22.519	ID:2	Unicast message sent: x = 11622, y = -26457, status = WALKING
+11:22.614	ID:5	A message arrived from the child
+11:22.617	ID:5	x = 11622, y = -26457, status = WALKING
+11:22.665	ID:1	Unicast message sent: x = -19915, y = 14026, status = WALKING
+11:22.750	ID:4	A message arrived from the child
+11:22.754	ID:4	x = -19915, y = 14026, status = WALKING
+11:23.182	ID:3	Unicast message sent: x = 4717, y = 16034, status = WALKING
+11:23.277	ID:6	A message arrived from the child
+11:23.280	ID:6	x = 4717, y = 16034, status = WALKING
+11:26.582	ID:7	Unicast message sent: x = 5659, y = -11336, status = STANDING
+11:26.662	ID:8	A message arrived from the child
+11:26.666	ID:8	x = 5659, y = -11336, status = STANDING
+11:32.519	ID:2	Unicast message sent: x = 10493, y = -17934, status = STANDING
+11:32.617	ID:5	A message arrived from the child
+11:32.620	ID:5	x = 10493, y = -17934, status = STANDING
+11:32.665	ID:1	Unicast message sent: x = 4952, y = 15537, status = RUNNING
+11:32.750	ID:4	A message arrived from the child
+11:32.753	ID:4	x = 4952, y = 15537, status = RUNNING
+11:33.183	ID:3	Unicast message sent: x = 15088, y = 26729, status = STANDING
+11:33.277	ID:6	A message arrived from the child
+11:33.281	ID:6	x = 15088, y = 26729, status = STANDING
+11:36.582	ID:7	Unicast message sent: x = -25354, y = -1801, status = WALKING
+11:36.662	ID:8	A message arrived from the child
+11:36.666	ID:8	x = -25354, y = -1801, status = WALKING
+11:42.519	ID:2	Unicast message sent: x = -4416, y = 22521, status = FALLING
+11:42.616	ID:5	A message arrived from the child
+11:42.620	ID:5	x = -4416, y = 22521, status = FALLING
+11:42.623	ID:5	ALARM: FALL x = -4416, y = 22521
+11:42.665	ID:1	Unicast message sent: x = 29975, y = 3332, status = RUNNING
+11:42.750	ID:4	A message arrived from the child
+11:42.753	ID:4	x = 29975, y = 3332, status = RUNNING
+11:43.182	ID:3	Unicast message sent: x = 5007, y = 5660, status = WALKING
+11:43.277	ID:6	A message arrived from the child
+11:43.280	ID:6	x = 5007, y = 5660, status = WALKING
+11:46.583	ID:7	Unicast message sent: x = -13875, y = -28030, status = RUNNING
+11:46.663	ID:8	A message arrived from the child
+11:46.666	ID:8	x = -13875, y = -28030, status = RUNNING
+11:52.519	ID:2	Unicast message sent: x = -2657, y = 14060, status = STANDING
+11:52.665	ID:1	Unicast message sent: x = -10974, y = 19379, status = WALKING
+11:52.750	ID:4	A message arrived from the child
+11:52.754	ID:4	x = -10974, y = 19379, status = WALKING
+11:53.182	ID:3	Unicast message sent: x = -6, y = 22955, status = STANDING
+11:53.277	ID:6	A message arrived from the child
+11:53.280	ID:6	x = -6, y = 22955, status = STANDING
+11:56.583	ID:7	Unicast message sent: x = 25040, y = 13769, status = STANDING
+11:56.662	ID:8	A message arrived from the child
+11:56.666	ID:8	x = 25040, y = 13769, status = STANDING
+12:02.519	ID:2	Unicast message sent: x = 3377, y = -17386, status = FALLING
+12:02.665	ID:1	Unicast message sent: x = -12055, y = 8558, status = WALKING
+12:02.750	ID:4	A message arrived from the child
+12:02.753	ID:4	x = -12055, y = 8558, status = WALKING
+12:03.182	ID:3	Unicast message sent: x = -17503, y = 8646, status = WALKING
+12:03.277	ID:6	A message arrived from the child
+12:03.280	ID:6	x = -17503, y = 8646, status = WALKING
+12:06.582	ID:7	Unicast message sent: x = 4079, y = -13572, status = RUNNING
+12:06.665	ID:8	A message arrived from the child
+12:06.668	ID:8	x = 4079, y = -13572, status = RUNNING
+12:12.519	ID:2	Unicast message sent: x = -26573, y = -30736, status = WALKING
+12:12.665	ID:1	Unicast message sent: x = -1892, y = -27995, status = STANDING
+12:12.750	ID:4	A message arrived from the child
+12:12.754	ID:4	x = -1892, y = -27995, status = STANDING
+12:13.182	ID:3	Unicast message sent: x = 3252, y = 28893, status = RUNNING
+12:13.277	ID:6	A message arrived from the child
+12:13.280	ID:6	x = 3252, y = 28893, status = RUNNING
+12:16.582	ID:7	Unicast message sent: x = -4134, y = -17397, status = WALKING
+12:16.662	ID:8	A message arrived from the child
+12:16.666	ID:8	x = -4134, y = -17397, status = WALKING
+12:22.519	ID:2	Unicast message sent: x = -6918, y = -9557, status = RUNNING
+12:22.665	ID:1	Unicast message sent: x = 32299, y = 648, status = STANDING
+12:22.750	ID:4	A message arrived from the child
+12:22.753	ID:4	x = 32299, y = 648, status = STANDING
+12:23.183	ID:3	Unicast message sent: x = 21283, y = 16416, status = WALKING
+12:23.527	ID:6	A message arrived from the child
+12:23.531	ID:6	x = 21283, y = 16416, status = WALKING
+12:26.583	ID:7	Unicast message sent: x = -11007, y = 12198, status = WALKING
+12:26.662	ID:8	A message arrived from the child
+12:26.666	ID:8	x = -11007, y = 12198, status = WALKING
+12:32.519	ID:2	Unicast message sent: x = -13900, y = -5667, status = RUNNING
+12:32.665	ID:1	Unicast message sent: x = -4026, y = -11769, status = WALKING
+12:32.750	ID:4	A message arrived from the child
+12:32.753	ID:4	x = -4026, y = -11769, status = WALKING
+12:33.182	ID:3	Unicast message sent: x = -385, y = 15948, status = RUNNING
+12:33.277	ID:6	A message arrived from the child
+12:33.280	ID:6	x = -385, y = 15948, status = RUNNING
+12:36.583	ID:7	Unicast message sent: x = 32148, y = -16323, status = STANDING
+12:36.663	ID:8	A message arrived from the child
+12:36.666	ID:8	x = 32148, y = -16323, status = STANDING
+12:42.519	ID:2	Unicast message sent: x = 30878, y = -20609, status = WALKING
+12:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+12:42.666	ID:1	Unicast message sent: x = 29021, y = -13614, status = STANDING
+12:42.748	ID:4	A message arrived from the child
+12:42.752	ID:4	x = 29021, y = -13614, status = STANDING
+12:43.182	ID:3	Unicast message sent: x = 23466, y = 923, status = RUNNING
+12:43.277	ID:6	A message arrived from the child
+12:43.280	ID:6	x = 23466, y = 923, status = RUNNING
+12:46.583	ID:7	Unicast message sent: x = -24189, y = -8448, status = STANDING
+12:46.663	ID:8	A message arrived from the child
+12:46.666	ID:8	x = -24189, y = -8448, status = STANDING
+12:52.519	ID:2	Unicast message sent: x = 8248, y = -2031, status = RUNNING
+12:52.666	ID:1	Unicast message sent: x = -25952, y = -14759, status = FALLING
+12:52.750	ID:4	A message arrived from the child
+12:52.754	ID:4	x = -25952, y = -14759, status = FALLING
+12:52.757	ID:4	ALARM: FALL x = -25952, y = -14759
+12:53.183	ID:3	Unicast message sent: x = -12527, y = -30602, status = FALLING
+12:53.277	ID:6	A message arrived from the child
+12:53.281	ID:6	x = -12527, y = -30602, status = FALLING
+12:53.284	ID:6	ALARM: FALL x = -12527, y = -30602
+12:56.583	ID:7	Unicast message sent: x = -29314, y = -11553, status = STANDING
+12:56.663	ID:8	A message arrived from the child
+12:56.667	ID:8	x = -29314, y = -11553, status = STANDING
+13:02.519	ID:2	Unicast message sent: x = 31490, y = 11283, status = STANDING
+13:02.665	ID:1	Unicast message sent: x = -1281, y = -16180, status = WALKING
+13:02.750	ID:4	A message arrived from the child
+13:02.753	ID:4	x = -1281, y = -16180, status = WALKING
+13:03.182	ID:3	Unicast message sent: x = 2788, y = 19277, status = FALLING
+13:03.277	ID:6	A message arrived from the child
+13:03.280	ID:6	x = 2788, y = 19277, status = FALLING
+13:03.283	ID:6	ALARM: FALL x = 2788, y = 19277
+13:06.582	ID:7	Unicast message sent: x = -17931, y = 906, status = WALKING
+13:06.665	ID:8	A message arrived from the child
+13:06.668	ID:8	x = -17931, y = 906, status = WALKING
+13:12.519	ID:2	Unicast message sent: x = 28677, y = 26714, status = FALLING
+13:12.665	ID:1	Unicast message sent: x = -7638, y = 18459, status = STANDING
+13:12.750	ID:4	A message arrived from the child
+13:12.753	ID:4	x = -7638, y = 18459, status = STANDING
+13:13.182	ID:3	Unicast message sent: x = 19219, y = -3760, status = FALLING
+13:13.527	ID:6	A message arrived from the child
+13:13.531	ID:6	x = 19219, y = -3760, status = FALLING
+13:13.534	ID:6	ALARM: FALL x = 19219, y = -3760
+13:16.582	ID:7	Unicast message sent: x = -29160, y = 113, status = STANDING
+13:16.665	ID:8	A message arrived from the child
+13:16.668	ID:8	x = -29160, y = 113, status = STANDING
+13:22.519	ID:2	Unicast message sent: x = -15257, y = 12820, status = STANDING
+13:22.665	ID:1	Unicast message sent: x = -6255, y = -2314, status = FALLING
+13:22.750	ID:4	A message arrived from the child
+13:22.753	ID:4	x = -6255, y = -2314, status = FALLING
+13:22.756	ID:4	ALARM: FALL x = -6255, y = -2314
+13:23.183	ID:3	Unicast message sent: x = -31377, y = -11652, status = RUNNING
+13:23.277	ID:6	A message arrived from the child
+13:23.281	ID:6	x = -31377, y = -11652, status = RUNNING
+13:26.582	ID:7	Unicast message sent: x = 16087, y = 29636, status = RUNNING
+13:26.662	ID:8	A message arrived from the child
+13:26.666	ID:8	x = 16087, y = 29636, status = RUNNING
+13:32.519	ID:2	Unicast message sent: x = -25090, y = -9889, status = RUNNING
+13:32.665	ID:1	Unicast message sent: x = 23908, y = 27597, status = RUNNING
+13:32.750	ID:4	A message arrived from the child
+13:32.754	ID:4	x = 23908, y = 27597, status = RUNNING
+13:33.182	ID:3	Unicast message sent: x = 858, y = 2443, status = STANDING
+13:33.277	ID:6	A message arrived from the child
+13:33.280	ID:6	x = 858, y = 2443, status = STANDING
+13:36.582	ID:7	Unicast message sent: x = 31202, y = -3725, status = FALLING
+13:36.665	ID:8	A message arrived from the child
+13:36.668	ID:8	x = 31202, y = -3725, status = FALLING
+13:36.671	ID:8	ALARM: FALL x = 31202, y = -3725
+13:42.519	ID:2	Unicast message sent: x = 6808, y = -11535, status = RUNNING
+13:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+13:42.665	ID:1	Unicast message sent: x = -24685, y = -5168, status = WALKING
+13:42.750	ID:4	A message arrived from the child
+13:42.754	ID:4	x = -24685, y = -5168, status = WALKING
+13:43.183	ID:3	Unicast message sent: x = -24959, y = -1242, status = STANDING
+13:43.277	ID:6	A message arrived from the child
+13:43.281	ID:6	x = -24959, y = -1242, status = STANDING
+13:46.582	ID:7	Unicast message sent: x = 19625, y = 21038, status = WALKING
+13:46.662	ID:8	A message arrived from the child
+13:46.666	ID:8	x = 19625, y = 21038, status = WALKING
+13:52.519	ID:2	Unicast message sent: x = 12275, y = -23376, status = STANDING
+13:52.665	ID:1	Unicast message sent: x = -4402, y = -24081, status = STANDING
+13:52.750	ID:4	A message arrived from the child
+13:52.754	ID:4	x = -4402, y = -24081, status = STANDING
+13:53.183	ID:3	Unicast message sent: x = -2796, y = -24131, status = STANDING
+13:53.277	ID:6	A message arrived from the child
+13:53.281	ID:6	x = -2796, y = -24131, status = STANDING
+13:56.582	ID:7	Unicast message sent: x = 30556, y = 2661, status = STANDING
+13:56.665	ID:8	A message arrived from the child
+13:56.668	ID:8	x = 30556, y = 2661, status = STANDING
+14:02.519	ID:2	Unicast message sent: x = 7098, y = -21909, status = RUNNING
+14:02.665	ID:1	Unicast message sent: x = 18309, y = 10714, status = RUNNING
+14:02.750	ID:4	A message arrived from the child
+14:02.754	ID:4	x = 18309, y = 10714, status = RUNNING
+14:03.182	ID:3	Unicast message sent: x = 7939, y = 20096, status = STANDING
+14:03.527	ID:6	A message arrived from the child
+14:03.531	ID:6	x = 7939, y = 20096, status = STANDING
+14:06.582	ID:7	Unicast message sent: x = 7147, y = -21176, status = RUNNING
+14:06.665	ID:8	A message arrived from the child
+14:06.668	ID:8	x = 7147, y = -21176, status = RUNNING
+14:12.519	ID:2	Unicast message sent: x = 19060, y = 15261, status = WALKING
+14:12.665	ID:1	Unicast message sent: x = 25832, y = -10495, status = RUNNING
+14:12.750	ID:4	A message arrived from the child
+14:12.754	ID:4	x = 25832, y = -10495, status = RUNNING
+14:13.183	ID:3	Unicast message sent: x = -22433, y = -11604, status = STANDING
+14:13.277	ID:6	A message arrived from the child
+14:13.281	ID:6	x = -22433, y = -11604, status = STANDING
+14:16.583	ID:7	Unicast message sent: x = 30982, y = -29753, status = STANDING
+14:16.663	ID:8	A message arrived from the child
+14:16.666	ID:8	x = 30982, y = -29753, status = STANDING
+14:22.519	ID:2	Unicast message sent: x = -3234, y = 29503, status = STANDING
+14:22.665	ID:1	Unicast message sent: x = -8217, y = -6252, status = STANDING
+14:22.750	ID:4	A message arrived from the child
+14:22.753	ID:4	x = -8217, y = -6252, status = STANDING
+14:23.182	ID:3	Unicast message sent: x = -2294, y = 27515, status = WALKING
+14:23.277	ID:6	A message arrived from the child
+14:23.280	ID:6	x = -2294, y = 27515, status = WALKING
+14:26.582	ID:7	Unicast message sent: x = 8477, y = 8082, status = STANDING
+14:26.665	ID:8	A message arrived from the child
+14:26.668	ID:8	x = 8477, y = 8082, status = STANDING
+14:32.519	ID:2	Unicast message sent: x = -15112, y = -25135, status = WALKING
+14:32.665	ID:1	Unicast message sent: x = 6706, y = -27773, status = WALKING
+14:32.750	ID:4	A message arrived from the child
+14:32.753	ID:4	x = 6706, y = -27773, status = WALKING
+14:33.183	ID:3	Unicast message sent: x = 10737, y = 31190, status = FALLING
+14:33.274	ID:6	A message arrived from the child
+14:33.278	ID:6	x = 10737, y = 31190, status = FALLING
+14:33.281	ID:6	ALARM: FALL x = 10737, y = 31190
+14:36.582	ID:7	Unicast message sent: x = -8864, y = -19943, status = FALLING
+14:36.662	ID:8	A message arrived from the child
+14:36.666	ID:8	x = -8864, y = -19943, status = FALLING
+14:36.669	ID:8	ALARM: FALL x = -8864, y = -19943
+14:42.519	ID:2	Unicast message sent: x = -1598, y = -23597, status = STANDING
+14:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+14:42.665	ID:1	Unicast message sent: x = 25913, y = -22658, status = FALLING
+14:42.750	ID:4	A message arrived from the child
+14:42.754	ID:4	x = 25913, y = -22658, status = FALLING
+14:42.757	ID:4	ALARM: FALL x = 25913, y = -22658
+14:43.183	ID:3	Unicast message sent: x = -13500, y = 29741, status = STANDING
+14:43.277	ID:6	A message arrived from the child
+14:43.281	ID:6	x = -13500, y = 29741, status = STANDING
+14:46.583	ID:7	Unicast message sent: x = 11455, y = 28556, status = STANDING
+14:46.662	ID:8	A message arrived from the child
+14:46.666	ID:8	x = 11455, y = 28556, status = STANDING
+14:52.519	ID:2	Unicast message sent: x = 10693, y = -230, status = FALLING
+14:52.665	ID:1	Unicast message sent: x = -27348, y = 7157, status = STANDING
+14:52.750	ID:4	A message arrived from the child
+14:52.753	ID:4	x = -27348, y = 7157, status = STANDING
+14:53.183	ID:3	Unicast message sent: x = -12557, y = 22448, status = RUNNING
+14:53.527	ID:6	A message arrived from the child
+14:53.531	ID:6	x = -12557, y = 22448, status = RUNNING
+14:56.582	ID:7	Unicast message sent: x = 3818, y = -10789, status = STANDING
+14:56.662	ID:8	A message arrived from the child
+14:56.666	ID:8	x = 3818, y = -10789, status = STANDING
+15:02.519	ID:2	Unicast message sent: x = -20441, y = 4820, status = WALKING
+15:02.665	ID:1	Unicast message sent: x = -4101, y = -10216, status = FALLING
+15:02.750	ID:4	A message arrived from the child
+15:02.753	ID:4	x = -4101, y = -10216, status = FALLING
+15:02.757	ID:4	ALARM: FALL x = -4101, y = -10216
+15:03.183	ID:3	Unicast message sent: x = 26447, y = 16092, status = RUNNING
+15:03.274	ID:6	A message arrived from the child
+15:03.278	ID:6	x = 26447, y = 16092, status = RUNNING
+15:06.583	ID:7	Unicast message sent: x = -29871, y = 12214, status = WALKING
+15:06.663	ID:8	A message arrived from the child
+15:06.666	ID:8	x = -29871, y = 12214, status = WALKING
+15:12.519	ID:2	Unicast message sent: x = 30910, y = 32031, status = STANDING
+15:12.666	ID:1	Unicast message sent: x = 10326, y = -28457, status = STANDING
+15:12.748	ID:4	A message arrived from the child
+15:12.752	ID:4	x = 10326, y = -28457, status = STANDING
+15:13.183	ID:3	Unicast message sent: x = 14010, y = 10603, status = WALKING
+15:13.274	ID:6	A message arrived from the child
+15:13.278	ID:6	x = 14010, y = 10603, status = WALKING
+15:16.582	ID:7	Unicast message sent: x = 9252, y = -29811, status = RUNNING
+15:16.665	ID:8	A message arrived from the child
+15:16.668	ID:8	x = 9252, y = -29811, status = RUNNING
+15:22.519	ID:2	Unicast message sent: x = 8024, y = 22705, status = WALKING
+15:22.665	ID:1	Unicast message sent: x = -11091, y = 29666, status = WALKING
+15:22.750	ID:4	A message arrived from the child
+15:22.754	ID:4	x = -11091, y = 29666, status = WALKING
+15:23.182	ID:3	Unicast message sent: x = 29025, y = 1158, status = RUNNING
+15:23.277	ID:6	A message arrived from the child
+15:23.280	ID:6	x = 29025, y = 1158, status = RUNNING
+15:26.582	ID:7	Unicast message sent: x = 9555, y = 24208, status = RUNNING
+15:26.665	ID:8	A message arrived from the child
+15:26.668	ID:8	x = 9555, y = 24208, status = RUNNING
+15:32.519	ID:2	Unicast message sent: x = -30797, y = -32400, status = RUNNING
+15:32.665	ID:1	Unicast message sent: x = -28112, y = 3753, status = RUNNING
+15:32.750	ID:4	A message arrived from the child
+15:32.753	ID:4	x = -28112, y = 3753, status = RUNNING
+15:33.183	ID:3	Unicast message sent: x = -29324, y = -15715, status = WALKING
+15:33.277	ID:6	A message arrived from the child
+15:33.281	ID:6	x = -29324, y = -15715, status = WALKING
+15:36.583	ID:7	Unicast message sent: x = 32654, y = -15441, status = STANDING
+15:36.663	ID:8	A message arrived from the child
+15:36.666	ID:8	x = 32654, y = -15441, status = STANDING
+15:42.519	ID:2	Unicast message sent: x = 4730, y = 14891, status = STANDING
+15:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+15:42.666	ID:1	Unicast message sent: x = -15409, y = -24228, status = STANDING
+15:42.748	ID:4	A message arrived from the child
+15:42.752	ID:4	x = -15409, y = -24228, status = STANDING
+15:43.182	ID:3	Unicast message sent: x = 23267, y = 3296, status = STANDING
+15:43.527	ID:6	A message arrived from the child
+15:43.531	ID:6	x = 23267, y = 3296, status = STANDING
+15:46.582	ID:7	Unicast message sent: x = -24763, y = 1690, status = RUNNING
+15:46.665	ID:8	A message arrived from the child
+15:46.668	ID:8	x = -24763, y = 1690, status = RUNNING
+15:52.519	ID:2	Unicast message sent: x = -29900, y = 19805, status = STANDING
+15:52.666	ID:1	Unicast message sent: x = -25286, y = -12821, status = WALKING
+15:52.748	ID:4	A message arrived from the child
+15:52.752	ID:4	x = -25286, y = -12821, status = WALKING
+15:53.182	ID:3	Unicast message sent: x = -15809, y = 5900, status = FALLING
+15:56.582	ID:7	Unicast message sent: x = 28584, y = -5439, status = WALKING
+15:56.665	ID:8	A message arrived from the child
+15:56.668	ID:8	x = 28584, y = -5439, status = WALKING
+16:02.519	ID:2	Unicast message sent: x = -13547, y = 3626, status = WALKING
+16:02.665	ID:1	Unicast message sent: x = -5663, y = 21254, status = STANDING
+16:02.750	ID:4	A message arrived from the child
+16:02.753	ID:4	x = -5663, y = 21254, status = STANDING
+16:03.183	ID:3	Unicast message sent: x = 29905, y = -25802, status = RUNNING
+16:06.582	ID:7	Unicast message sent: x = 31143, y = -8620, status = RUNNING
+16:06.665	ID:8	A message arrived from the child
+16:06.668	ID:8	x = 31143, y = -8620, status = RUNNING
+16:12.519	ID:2	Unicast message sent: x = -14601, y = 10596, status = RUNNING
+16:12.666	ID:1	Unicast message sent: x = -16396, y = 17181, status = STANDING
+16:12.748	ID:4	A message arrived from the child
+16:12.752	ID:4	x = -16396, y = 17181, status = STANDING
+16:13.182	ID:3	Unicast message sent: x = 28176, y = -4855, status = RUNNING
+16:16.582	ID:7	Unicast message sent: x = -12558, y = 2371, status = RUNNING
+16:16.662	ID:8	A message arrived from the child
+16:16.666	ID:8	x = -12558, y = 2371, status = RUNNING
+16:22.519	ID:2	Unicast message sent: x = 23246, y = -25105, status = WALKING
+16:22.665	ID:1	Unicast message sent: x = 3939, y = -6304, status = RUNNING
+16:22.750	ID:4	A message arrived from the child
+16:22.753	ID:4	x = 3939, y = -6304, status = RUNNING
+16:23.183	ID:3	Unicast message sent: x = -18101, y = -4312, status = RUNNING
+16:26.582	ID:7	Unicast message sent: x = 12537, y = -6082, status = WALKING
+16:26.665	ID:8	A message arrived from the child
+16:26.668	ID:8	x = 12537, y = -6082, status = WALKING
+16:32.519	ID:2	Unicast message sent: x = -2650, y = 23527, status = RUNNING
+16:32.665	ID:1	Unicast message sent: x = -17186, y = 16063, status = WALKING
+16:32.750	ID:4	A message arrived from the child
+16:32.754	ID:4	x = -17186, y = 16063, status = WALKING
+16:33.182	ID:3	Unicast message sent: x = 21106, y = 1731, status = WALKING
+16:36.583	ID:7	Unicast message sent: x = -23572, y = -7243, status = STANDING
+16:36.662	ID:8	A message arrived from the child
+16:36.666	ID:8	x = -23572, y = -7243, status = STANDING
+16:42.519	ID:2	Unicast message sent: x = 313, y = 4990, status = RUNNING
+16:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+16:42.666	ID:1	Unicast message sent: x = -18219, y = -14102, status = STANDING
+16:42.748	ID:4	A message arrived from the child
+16:42.752	ID:4	x = -18219, y = -14102, status = STANDING
+16:43.182	ID:3	Unicast message sent: x = 2924, y = -2763, status = RUNNING
+16:43.532	ID:6	ALARM: MISSING last position -> x = 23267, y = 3296
+16:46.582	ID:7	Unicast message sent: x = 23995, y = 4824, status = RUNNING
+16:46.665	ID:8	A message arrived from the child
+16:46.668	ID:8	x = 23995, y = 4824, status = RUNNING
+16:52.519	ID:2	Unicast message sent: x = -21509, y = -7144, status = RUNNING
+16:52.665	ID:1	Unicast message sent: x = 17016, y = 3409, status = WALKING
+16:52.750	ID:4	A message arrived from the child
+16:52.753	ID:4	x = 17016, y = 3409, status = WALKING
+16:53.183	ID:3	Unicast message sent: x = -24553, y = 23556, status = RUNNING
+16:56.582	ID:7	Unicast message sent: x = -16106, y = 6807, status = STANDING
+16:56.662	ID:8	A message arrived from the child
+16:56.666	ID:8	x = -16106, y = 6807, status = STANDING
+17:02.519	ID:2	Unicast message sent: x = -20307, y = 8162, status = STANDING
+17:02.665	ID:1	Unicast message sent: x = 18103, y = 3620, status = RUNNING
+17:02.750	ID:4	A message arrived from the child
+17:02.753	ID:4	x = 18103, y = 3620, status = RUNNING
+17:03.182	ID:3	Unicast message sent: x = -1938, y = 31503, status = WALKING
+17:06.583	ID:7	Unicast message sent: x = -11155, y = -10078, status = STANDING
+17:06.663	ID:8	A message arrived from the child
+17:06.667	ID:8	x = -11155, y = -10078, status = STANDING
+17:12.519	ID:2	Unicast message sent: x = -4772, y = 18533, status = STANDING
+17:12.666	ID:1	Unicast message sent: x = -29886, y = -26797, status = WALKING
+17:12.748	ID:4	A message arrived from the child
+17:12.752	ID:4	x = -29886, y = -26797, status = WALKING
+17:13.182	ID:3	Unicast message sent: x = 8584, y = -6367, status = STANDING
+17:16.582	ID:7	Unicast message sent: x = 25840, y = 19049, status = WALKING
+17:16.662	ID:8	A message arrived from the child
+17:16.666	ID:8	x = 25840, y = 19049, status = WALKING
+17:22.519	ID:2	Unicast message sent: x = -29708, y = 7965, status = STANDING
+17:22.665	ID:1	Unicast message sent: x = 5513, y = 6542, status = WALKING
+17:22.750	ID:4	A message arrived from the child
+17:22.753	ID:4	x = 5513, y = 6542, status = WALKING
+17:23.182	ID:3	Unicast message sent: x = -3630, y = 8867, status = STANDING
+17:26.582	ID:7	Unicast message sent: x = -14961, y = -8164, status = WALKING
+17:26.662	ID:8	A message arrived from the child
+17:26.666	ID:8	x = -14961, y = -8164, status = WALKING
+17:32.519	ID:2	Unicast message sent: x = 15039, y = 25996, status = WALKING
+17:32.665	ID:1	Unicast message sent: x = -580, y = -32443, status = WALKING
+17:32.750	ID:4	A message arrived from the child
+17:32.753	ID:4	x = -580, y = -32443, status = WALKING
+17:33.182	ID:3	Unicast message sent: x = 12821, y = -5846, status = RUNNING
+17:36.582	ID:7	Unicast message sent: x = -9734, y = 11179, status = RUNNING
+17:36.662	ID:8	A message arrived from the child
+17:36.666	ID:8	x = -9734, y = 11179, status = RUNNING
+17:42.519	ID:2	Unicast message sent: x = 10577, y = 30134, status = WALKING
+17:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+17:42.666	ID:1	Unicast message sent: x = -25141, y = 14760, status = STANDING
+17:42.750	ID:4	A message arrived from the child
+17:42.754	ID:4	x = -25141, y = 14760, status = STANDING
+17:43.182	ID:3	Unicast message sent: x = -2569, y = 11364, status = WALKING
+17:43.532	ID:6	ALARM: MISSING last position -> x = 23267, y = 3296
+17:46.582	ID:7	Unicast message sent: x = -8799, y = -25658, status = RUNNING
+17:46.662	ID:8	A message arrived from the child
+17:46.666	ID:8	x = -8799, y = -25658, status = RUNNING
+17:52.519	ID:2	Unicast message sent: x = -11437, y = 29840, status = WALKING
+17:52.666	ID:1	Unicast message sent: x = -13210, y = 19367, status = STANDING
+17:52.748	ID:4	A message arrived from the child
+17:52.752	ID:4	x = -13210, y = 19367, status = STANDING
+17:53.183	ID:3	Unicast message sent: x = 17870, y = -21265, status = RUNNING
+17:56.582	ID:7	Unicast message sent: x = 5812, y = -19747, status = STANDING
+17:56.662	ID:8	A message arrived from the child
+17:56.666	ID:8	x = 5812, y = -19747, status = STANDING
+18:02.519	ID:2	Unicast message sent: x = 27802, y = 22987, status = WALKING
+18:02.666	ID:1	Unicast message sent: x = -27651, y = 18674, status = STANDING
+18:02.748	ID:4	A message arrived from the child
+18:02.752	ID:4	x = -27651, y = 18674, status = STANDING
+18:03.182	ID:3	Unicast message sent: x = 1000, y = -30207, status = WALKING
+18:06.582	ID:7	Unicast message sent: x = 25891, y = -5600, status = STANDING
+18:06.662	ID:8	A message arrived from the child
+18:06.666	ID:8	x = 25891, y = -5600, status = STANDING
+18:12.519	ID:2	Unicast message sent: x = 5204, y = 28669, status = STANDING
+18:12.665	ID:1	Unicast message sent: x = -27200, y = 29433, status = RUNNING
+18:12.750	ID:4	A message arrived from the child
+18:12.754	ID:4	x = -27200, y = 29433, status = RUNNING
+18:13.183	ID:3	Unicast message sent: x = -16078, y = -20861, status = STANDING
+18:16.582	ID:7	Unicast message sent: x = 23966, y = 12415, status = FALLING
+18:16.662	ID:8	A message arrived from the child
+18:16.666	ID:8	x = 23966, y = 12415, status = FALLING
+18:16.669	ID:8	ALARM: FALL x = 23966, y = 12415
+18:22.519	ID:2	Unicast message sent: x = 28222, y = 1183, status = STANDING
+18:22.665	ID:1	Unicast message sent: x = 2207, y = 19948, status = WALKING
+18:22.750	ID:4	A message arrived from the child
+18:22.753	ID:4	x = 2207, y = 19948, status = WALKING
+18:23.183	ID:3	Unicast message sent: x = 24309, y = 17546, status = RUNNING
+18:26.583	ID:7	Unicast message sent: x = 24725, y = -19030, status = STANDING
+18:26.663	ID:8	A message arrived from the child
+18:26.666	ID:8	x = 24725, y = -19030, status = STANDING
+18:32.519	ID:2	Unicast message sent: x = -23503, y = 1814, status = WALKING
+18:32.665	ID:1	Unicast message sent: x = 1098, y = -28741, status = RUNNING
+18:32.750	ID:4	A message arrived from the child
+18:32.753	ID:4	x = 1098, y = -28741, status = RUNNING
+18:33.183	ID:3	Unicast message sent: x = -17449, y = -21308, status = WALKING
+18:36.582	ID:7	Unicast message sent: x = -8904, y = 28945, status = FALLING
+18:36.665	ID:8	A message arrived from the child
+18:36.668	ID:8	x = -8904, y = 28945, status = FALLING
+18:36.671	ID:8	ALARM: FALL x = -8904, y = 28945
+18:42.519	ID:2	Unicast message sent: x = 30515, y = 31472, status = STANDING
+18:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+18:42.665	ID:1	Unicast message sent: x = -30671, y = 6934, status = FALLING
+18:42.750	ID:4	A message arrived from the child
+18:42.753	ID:4	x = -30671, y = 6934, status = FALLING
+18:42.756	ID:4	ALARM: FALL x = -30671, y = 6934
+18:43.183	ID:3	Unicast message sent: x = -15570, y = 20175, status = WALKING
+18:43.532	ID:6	ALARM: MISSING last position -> x = 23267, y = 3296
+18:46.583	ID:7	Unicast message sent: x = -20361, y = -27420, status = STANDING
+18:46.663	ID:8	A message arrived from the child
+18:46.667	ID:8	x = -20361, y = -27420, status = STANDING
+18:52.520	ID:2	Unicast message sent: x = -26197, y = -18424, status = STANDING
+18:52.665	ID:1	Unicast message sent: x = 28292, y = 30317, status = STANDING
+18:52.750	ID:4	A message arrived from the child
+18:52.754	ID:4	x = 28292, y = 30317, status = STANDING
+18:53.182	ID:3	Unicast message sent: x = -27064, y = 7393, status = RUNNING
+18:56.582	ID:7	Unicast message sent: x = 20482, y = -8941, status = FALLING
+18:56.665	ID:8	A message arrived from the child
+18:56.668	ID:8	x = 20482, y = -8941, status = FALLING
+18:56.671	ID:8	ALARM: FALL x = 20482, y = -8941
+19:02.519	ID:2	Unicast message sent: x = -20259, y = -11182, status = RUNNING
+19:02.665	ID:1	Unicast message sent: x = 15155, y = -4368, status = RUNNING
+19:02.750	ID:4	A message arrived from the child
+19:02.753	ID:4	x = 15155, y = -4368, status = RUNNING
+19:03.183	ID:3	Unicast message sent: x = -21917, y = -6560, status = RUNNING
+19:06.582	ID:7	Unicast message sent: x = 12617, y = 27214, status = FALLING
+19:06.662	ID:8	A message arrived from the child
+19:06.666	ID:8	x = 12617, y = 27214, status = FALLING
+19:06.669	ID:8	ALARM: FALL x = 12617, y = 27214
+19:12.519	ID:2	Unicast message sent: x = 32332, y = 7829, status = WALKING
+19:12.665	ID:1	Unicast message sent: x = 30446, y = 22415, status = RUNNING
+19:12.750	ID:4	A message arrived from the child
+19:12.754	ID:4	x = 30446, y = 22415, status = RUNNING
+19:13.182	ID:3	Unicast message sent: x = -12310, y = 731, status = RUNNING
+19:16.583	ID:7	Unicast message sent: x = -25476, y = -26363, status = RUNNING
+19:16.663	ID:8	A message arrived from the child
+19:16.666	ID:8	x = -25476, y = -26363, status = RUNNING
+19:22.519	ID:2	Unicast message sent: x = 32375, y = 19172, status = RUNNING
+19:22.665	ID:1	Unicast message sent: x = 1573, y = 5114, status = WALKING
+19:22.750	ID:4	A message arrived from the child
+19:22.753	ID:4	x = 1573, y = 5114, status = WALKING
+19:23.182	ID:3	Unicast message sent: x = -8924, y = 20621, status = WALKING
+19:26.582	ID:7	Unicast message sent: x = -9333, y = 1128, status = RUNNING
+19:26.665	ID:8	A message arrived from the child
+19:26.668	ID:8	x = -9333, y = 1128, status = RUNNING
+19:32.519	ID:2	Unicast message sent: x = 28750, y = -14993, status = WALKING
+19:32.665	ID:1	Unicast message sent: x = -21496, y = -8287, status = WALKING
+19:32.750	ID:4	A message arrived from the child
+19:32.754	ID:4	x = -21496, y = -8287, status = WALKING
+19:33.183	ID:3	Unicast message sent: x = 28814, y = 24751, status = STANDING
+19:36.583	ID:7	Unicast message sent: x = 29990, y = -23193, status = STANDING
+19:36.663	ID:8	A message arrived from the child
+19:36.666	ID:8	x = 29990, y = -23193, status = STANDING
+19:42.519	ID:2	Unicast message sent: x = 15142, y = -3225, status = RUNNING
+19:42.622	ID:5	ALARM: MISSING last position -> x = -4416, y = 22521
+19:42.666	ID:1	Unicast message sent: x = -22137, y = -32588, status = FALLING
+19:42.748	ID:4	A message arrived from the child
+19:42.752	ID:4	x = -22137, y = -32588, status = FALLING
+19:42.755	ID:4	ALARM: FALL x = -22137, y = -32588
+19:43.182	ID:3	Unicast message sent: x = -24639, y = 870, status = WALKING
+19:43.532	ID:6	ALARM: MISSING last position -> x = 23267, y = 3296
+19:46.582	ID:7	Unicast message sent: x = -7235, y = -16974, status = WALKING
+19:46.662	ID:8	A message arrived from the child
+19:46.666	ID:8	x = -7235, y = -16974, status = WALKING
+19:52.519	ID:2	Unicast message sent: x = -9031, y = -30466, status = RUNNING
+19:52.665	ID:1	Unicast message sent: x = 10322, y = 22307, status = FALLING
+19:52.750	ID:4	A message arrived from the child
+19:52.754	ID:4	x = 10322, y = 22307, status = FALLING
+19:52.757	ID:4	ALARM: FALL x = 10322, y = 22307
+19:53.182	ID:3	Unicast message sent: x = 5699, y = 5312, status = FALLING
+19:56.582	ID:7	Unicast message sent: x = -1920, y = -327, status = RUNNING
+19:56.665	ID:8	A message arrived from the child
+19:56.668	ID:8	x = -1920, y = -327, status = RUNNING
+20:02.520	ID:2	Unicast message sent: x = -21637, y = -21096, status = STANDING
+20:02.665	ID:1	Unicast message sent: x = -7719, y = 30622, status = STANDING
+20:02.750	ID:4	A message arrived from the child
+20:02.753	ID:4	x = -7719, y = 30622, status = STANDING
+20:03.182	ID:3	Unicast message sent: x = -29878, y = 2747, status = RUNNING
+20:03.277	ID:6	A message arrived from the child
+20:03.280	ID:6	x = -29878, y = 2747, status = RUNNING
+20:06.582	ID:7	Unicast message sent: x = -9633, y = 7340, status = FALLING
+20:06.665	ID:8	A message arrived from the child
+20:06.668	ID:8	x = -9633, y = 7340, status = FALLING
+20:06.671	ID:8	ALARM: FALL x = -9633, y = 7340
+20:12.520	ID:2	Unicast message sent: x = -19411, y = -25246, status = STANDING
+20:12.617	ID:5	A message arrived from the child
+20:12.620	ID:5	x = -19411, y = -25246, status = STANDING
+20:12.665	ID:1	Unicast message sent: x = 12876, y = -15723, status = RUNNING
+20:12.750	ID:4	A message arrived from the child
+20:12.754	ID:4	x = 12876, y = -15723, status = RUNNING
+20:13.182	ID:3	Unicast message sent: x = -1231, y = 4630, status = STANDING
+20:13.277	ID:6	A message arrived from the child
+20:13.280	ID:6	x = -1231, y = 4630, status = STANDING
+20:16.583	ID:7	Unicast message sent: x = 20746, y = -17029, status = STANDING
+20:16.663	ID:8	A message arrived from the child
+20:16.666	ID:8	x = 20746, y = -17029, status = STANDING
+20:22.519	ID:2	Unicast message sent: x = -26704, y = 26153, status = FALLING
+20:22.616	ID:5	A message arrived from the child
+20:22.620	ID:5	x = -26704, y = 26153, status = FALLING
+20:22.623	ID:5	ALARM: FALL x = -26704, y = 26153
+20:22.666	ID:1	Unicast message sent: x = -30821, y = 10040, status = STANDING
+20:22.748	ID:4	A message arrived from the child
+20:22.752	ID:4	x = -30821, y = 10040, status = STANDING
+20:23.182	ID:3	Unicast message sent: x = -17020, y = 6509, status = WALKING
+20:23.277	ID:6	A message arrived from the child
+20:23.280	ID:6	x = -17020, y = 6509, status = WALKING
+20:26.583	ID:7	Unicast message sent: x = -13327, y = 29654, status = RUNNING
+20:26.662	ID:8	A message arrived from the child
+20:26.666	ID:8	x = -13327, y = 29654, status = RUNNING
+20:32.519	ID:2	Unicast message sent: x = -22705, y = 32476, status = WALKING
+20:32.614	ID:5	A message arrived from the child
+20:32.617	ID:5	x = -22705, y = 32476, status = WALKING
+20:32.665	ID:1	Unicast message sent: x = -9098, y = 631, status = RUNNING
+20:32.750	ID:4	A message arrived from the child
+20:32.753	ID:4	x = -9098, y = 631, status = RUNNING
+20:33.182	ID:3	Unicast message sent: x = 5683, y = 11760, status = FALLING
+20:33.277	ID:6	A message arrived from the child
+20:33.280	ID:6	x = 5683, y = 11760, status = FALLING
+20:33.283	ID:6	ALARM: FALL x = 5683, y = 11760
+20:36.582	ID:7	Unicast message sent: x = 21828, y = 13869, status = WALKING
+20:36.662	ID:8	A message arrived from the child
+20:36.666	ID:8	x = 21828, y = 13869, status = WALKING
+20:42.519	ID:2	Unicast message sent: x = 30394, y = 26987, status = WALKING
+20:42.616	ID:5	A message arrived from the child
+20:42.620	ID:5	x = 30394, y = 26987, status = WALKING
+20:42.665	ID:1	Unicast message sent: x = -20659, y = 18946, status = WALKING
+20:42.750	ID:4	A message arrived from the child
+20:42.754	ID:4	x = -20659, y = 18946, status = WALKING
+20:43.183	ID:3	Unicast message sent: x = 19950, y = -7537, status = STANDING
+20:43.277	ID:6	A message arrived from the child
+20:43.281	ID:6	x = 19950, y = -7537, status = STANDING
