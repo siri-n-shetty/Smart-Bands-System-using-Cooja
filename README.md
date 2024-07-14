@@ -42,6 +42,6 @@ git clone https://github.com/siri-n-shetty/Smart-Bands-System-using-Cooja.git
 
 * Siri N Shetty
 * Craig Nigel Fernandes
-* SHravya Reddy B
+* Shravya Reddy B
 
 This project was developed as a part of the summer course **Developing Next-Gen IoT Solutions with Contiki OS and Cooja Simulator**. Feel free to contribute by submitting issues for any bugs or improvements. 
